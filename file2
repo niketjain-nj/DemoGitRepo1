@@ -3,5 +3,10 @@ This is File2
 Another Line Added
 Another Line Added
 Another Line Added
+<<<<<<< HEAD
 Another Line Added:wq!
+=======
+Another Line Added
+Another Line Added
+>>>>>>> test
 
